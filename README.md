@@ -1,1 +1,1 @@
-Tukaj je narejena domača stran Googla. No vsaj moj poizkus.
+Here is a Google search page. Well, at least my try.
